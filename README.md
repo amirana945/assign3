@@ -5,6 +5,10 @@
 
 
 
+![images](https://cloud.githubusercontent.com/assets/22259573/20551357/6e751fc4-b10d-11e6-8b74-5ce8f4ed72ee.jpg)
+
+
+
 
 
 3D Maze Game
@@ -60,15 +64,17 @@ The game player is controlled with the help of the WASD keys. The cat jump up an
 IV.	Screen Descriptions
 Start Screen:
  
-     
+     ![scr1](https://cloud.githubusercontent.com/assets/22259573/20551478/b3b726d0-b10e-11e6-8c22-9b2e7147ac0f.png)
 
 Player with A Bonus and Enemy:
+![scr2](https://cloud.githubusercontent.com/assets/22259573/20551477/b3b10250-b10e-11e6-9095-0c9b0712667b.png)
  
 Terrain:
  
-
+![scr3](https://cloud.githubusercontent.com/assets/22259573/20551480/b3bd0f0a-b10e-11e6-957a-92e6c75e767a.png)
 
 Lives And Score
+![scr4](https://cloud.githubusercontent.com/assets/22259573/20551479/b3b9d01a-b10e-11e6-83b3-b285fa3d0786.png)
  
 V.	Game World
 The game world here is an maze where the player moves within the maze and completes its actions. 
